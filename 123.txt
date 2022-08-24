@@ -1,0 +1,5 @@
+	GRAFOS
+Tipos: direcionados, não direcionados e ponderados.
+
+exemplo 1: um usuário de uma loja quer saber que rota seguir do ponto X, que pode ser sua casa ou algum lugar em que estiver acessando o site, até o ponto Y, que é a loja mais próxima, sendo que quer pegar a rota mais curta possível.
+exemplo 2: o google com seu sistema de pesquisa
